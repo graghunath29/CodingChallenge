@@ -1,4 +1,4 @@
-name := "MentorActorApplication"
+name := "ChallengeApplication"
 
 version := "1.0"
 
